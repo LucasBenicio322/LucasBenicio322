@@ -10,7 +10,7 @@
     <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBenicio322&hide_progress=true&theme=holi" />
 </picture>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucas322&theme=iceberg&border_radius=5)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasBenicio322&theme=iceberg&border_radius=5)](https://git.io/streak-stats)
   
 </div>
 
