@@ -35,7 +35,4 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
-
-![Snake animation](https://github.com/LucasBenicio322/LucasBenicio322/blob/output/github-contribution-grid-snake.svg)
-
 <img width=120% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0163BBFF&section=footer"/>
